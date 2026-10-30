@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Northwind logo" width="160">
+  <img src="assets/Logo.png" alt="Northwind logo" width="160">
 </p>
 
 <h1 align="center">Northwind Sales Dashboard</h1>
@@ -21,11 +21,11 @@
 
 ### Overview page
 
-![Overview dashboard](assets/screenshots/overview.png)
+![Overview dashboard](assets/screenshots/Overview.png)
 
 ### Product page
 
-![Product dashboard](assets/screenshots/product.png)
+![Product dashboard](assets/screenshots/Product.png)
 
 ## About the project
 
