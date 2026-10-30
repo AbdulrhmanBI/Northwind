@@ -1,0 +1,7 @@
+# Treat Tableau packaged workbooks and Office files as binary
+*.twbx binary
+*.hyper binary
+*.xlsx  binary
+*.pptx  binary
+*.pdf   binary
+*.png   binary
