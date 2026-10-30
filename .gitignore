@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.pptx
+
+# Tableau temp files and extracts
+*.hyper
+*.tde
+*.tdsx.bak
+*.twb.bak
+*.twbx.bak
+Tableau Repository/Datasources/*.hyper
